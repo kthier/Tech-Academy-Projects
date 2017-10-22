@@ -1,0 +1,33 @@
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\ApplicationInsights.config
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Challenge 4 - Papa Bobs Pizza.dll.config
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Challenge 4 - Papa Bobs Pizza.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Challenge 4 - Papa Bobs Pizza.pdb
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\obj\Debug\Challenge 4 - Papa Bobs Pizza.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\obj\Debug\Challenge 4 - Papa Bobs Pizza.dll
+C:\Users\Student\Desktop\C# AND ASP.NET COURSE\Challenge 4 - Papa Bobs Pizza\Challenge 4 - Papa Bobs Pizza\obj\Debug\Challenge 4 - Papa Bobs Pizza.pdb
