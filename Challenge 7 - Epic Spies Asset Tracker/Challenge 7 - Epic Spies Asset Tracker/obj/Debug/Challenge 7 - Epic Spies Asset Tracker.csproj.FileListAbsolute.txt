@@ -1,0 +1,33 @@
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\ApplicationInsights.config
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\csc.exe
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\vbc.exe
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\VBCSCompiler.exe
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Challenge 7 - Epic Spies Asset Tracker.dll.config
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Challenge 7 - Epic Spies Asset Tracker.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Challenge 7 - Epic Spies Asset Tracker.pdb
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.Web.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.WindowsServer.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.ApplicationInsights.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.Web.xml
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.AI.WindowsServer.xml
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.ApplicationInsights.xml
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\obj\Debug\Challenge 7 - Epic Spies Asset Tracker.csprojResolveAssemblyReference.cache
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\obj\Debug\Challenge 7 - Epic Spies Asset Tracker.dll
+c:\users\student\Desktop\Visual Studio\Challenge 7 - Epic Spies Asset Tracker\Challenge 7 - Epic Spies Asset Tracker\obj\Debug\Challenge 7 - Epic Spies Asset Tracker.pdb
