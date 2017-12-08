@@ -1,0 +1,33 @@
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\ApplicationInsights.config
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\csc.exe
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\vbc.exe
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\VBCSCompiler.exe
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Challenge 11 - Phun with Strings.dll.config
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Challenge 11 - Phun with Strings.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Challenge 11 - Phun with Strings.pdb
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.Web.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.WindowsServer.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.ApplicationInsights.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.Web.xml
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.AI.WindowsServer.xml
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.ApplicationInsights.xml
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\obj\Debug\Challenge 11 - Phun with Strings.csprojResolveAssemblyReference.cache
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\obj\Debug\Challenge 11 - Phun with Strings.dll
+c:\users\student\Desktop\Visual Studio\Challenge 11 - Phun with Strings\Challenge 11 - Phun with Strings\obj\Debug\Challenge 11 - Phun with Strings.pdb
