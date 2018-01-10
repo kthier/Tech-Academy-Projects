@@ -14,34 +14,9 @@ namespace Challenge__9___Postage_Calculator
            
         }
 
-        protected void widthTextBox_TextChanged(object sender, EventArgs e)
+        protected void handleChange(object sender, EventArgs e)
         {
             calculateShipping(1, 1);
-        }
-
-        protected void heightTextBox_TextChanged(object sender, EventArgs e)
-        {
-            calculateShipping(1, 1);
-        }
-
-        protected void lengthTextBox_TextChanged(object sender, EventArgs e)
-        {
-            calculateShipping(1, 1);
-        }
-
-        protected void groundRadioButton_CheckedChanged(object sender, EventArgs e)
-        {
-            calculateShipping(1,1);
-        }
-
-        protected void airRadioButton_CheckedChanged(object sender, EventArgs e)
-        {
-            calculateShipping(1, 1);
-        }
-
-        protected void nextDayRadioButton_CheckedChanged(object sender, EventArgs e)
-        {
-            calculateShipping(1, 1); 
         }
 
         private void calculateShipping(double width, double height, double length = 1)
@@ -53,21 +28,29 @@ namespace Challenge__9___Postage_Calculator
 
             width = 0;
             if (!Double.TryParse(widthTextBox.Text, out width))
+            {
+                resultLabel.Text = "Re-enter the width.";
                 return;
+            }
 
             height = 0;
             if (!Double.TryParse(heightTextBox.Text, out height))
+            {
+                resultLabel.Text = "Re-enter the height.";
                 return;
+            }
+                
 
-            length = 0; //my optional
+            length = 0; //my optional parameter
             if (!Double.TryParse(lengthTextBox.Text, out length))
             { length = 1; }
 
             double shipping = 0.00;
+            double whl = width * height * length;
 
-            if (groundRadioButton.Checked) shipping = width * height * length * .15;
-            if (airRadioButton.Checked) shipping = width * height * length * .25;
-            if (nextDayRadioButton.Checked) shipping = width * height * length * .45;
+            if (groundRadioButton.Checked) shipping = whl * .15;
+            if (airRadioButton.Checked) shipping = whl * .25;
+            if (nextDayRadioButton.Checked) shipping = whl * .45;
 
             resultLabel.Text = String.Format("Your parcel will cost {0:C} to ship.", shipping);
         }

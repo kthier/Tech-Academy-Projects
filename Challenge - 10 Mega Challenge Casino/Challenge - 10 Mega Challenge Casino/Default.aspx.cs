@@ -35,7 +35,7 @@ namespace Challenge___10_Mega_Challenge_Casino
 
         private void adjustPlayersMoney(int bet, int winnings)
         {
-            int playersMoney= int.Parse(ViewState["PlayersMoney"].ToString());
+            int playersMoney = int.Parse(ViewState["PlayersMoney"].ToString());
             playersMoney -= bet;
             playersMoney += winnings;
             ViewState["PlayersMoney"] = playersMoney;

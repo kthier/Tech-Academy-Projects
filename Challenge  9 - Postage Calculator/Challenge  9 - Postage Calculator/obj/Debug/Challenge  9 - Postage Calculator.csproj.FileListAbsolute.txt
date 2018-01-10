@@ -31,3 +31,36 @@ c:\users\student\Desktop\Visual Studio\Challenge  9 - Postage Calculator\Challen
 c:\users\student\Desktop\Visual Studio\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\student\Desktop\Visual Studio\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\obj\Debug\Challenge  9 - Postage Calculator.dll
 c:\users\student\Desktop\Visual Studio\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\obj\Debug\Challenge  9 - Postage Calculator.pdb
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\ApplicationInsights.config
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Challenge  9 - Postage Calculator.dll.config
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Challenge  9 - Postage Calculator.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Challenge  9 - Postage Calculator.pdb
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\obj\Debug\Challenge  9 - Postage Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\obj\Debug\Challenge  9 - Postage Calculator.dll
+C:\Users\Student\Desktop\Github Repositories\Tech-Academy-Projects\Challenge  9 - Postage Calculator\Challenge  9 - Postage Calculator\obj\Debug\Challenge  9 - Postage Calculator.pdb
